@@ -6,7 +6,7 @@ The smart contract inherits from the ERC20 contract for creating a contract for 
 
 ## Functionalities
 
-### Minting the custom token
+### Minting Degen(DGN) token
 The smart contract allows for minting of the token. <br/>
 This feature is only accessible to the contract owner. <br/>
 
